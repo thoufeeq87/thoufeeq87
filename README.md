@@ -1,4 +1,4 @@
-![My Poster](/docs/assets/294249BD-75E2-4EB2-ADED-99CB54BAFD65.jpeg | width=100)
+<img src = "docs/assets/294249BD-75E2-4EB2-ADED-99CB54BAFD65.jpeg" width="800">
 
 ### Hi there 👋
 
