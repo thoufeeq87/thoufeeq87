@@ -1,8 +1,6 @@
-<img src = "docs/assets/294249BD-75E2-4EB2-ADED-99CB54BAFD65.jpeg" width="700">
-
 ## Welcome to my Space!!! :handshake:
 
-:nerd_face:I am Thoufeeq who is a “Web Scraping Freelancer ” who writes about Web-Scraping topics for a blog and SAAS company at an in-depth level. 
+:nerd_face:I am Thoufeeq who is a “Super Skilled Web Scraping Freelancer ” who writes about Web-Scraping topics for a blog and SAAS company at an in-depth level. 
 I have written several Topics to Finxter.com, Analytics Vidhya, and more..
 
 :trophy: Achieved Upwork Rising Talent status as freelancer in Web Scraping.
